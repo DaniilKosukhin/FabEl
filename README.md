@@ -1,3 +1,3 @@
 # Fablab Electronics
 the result
-![site](https://github.com/DaniilKosukhin/bot/blob/main/photo%20materials/1.%20bot%20front.jpg)
+![site](https://github.com/DaniilKosukhin/FabEl/blob/main/%D1%81%D0%B0%D0%B9%D1%82.PNG)
